@@ -1,3 +1,5 @@
+//Solar panel monitoring system with ThingSpeak
+
 #include <ESP8266WiFi.h>
 #include "ThingSpeak.h"
 #include "SDL_Arduino_INA3221.h"
